@@ -35,6 +35,6 @@ DESAJÁVEL, MAS NÃO EXIGIDO:
 
 ## Screenshots 
 <p align="middle">
-  <img src="1.gif">
-  <img src="2.gif">
+  <img src="1.png">
+  <img src="2.png">
 </p>
